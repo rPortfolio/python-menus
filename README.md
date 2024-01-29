@@ -13,3 +13,5 @@ main_menu = Menu("Menu", [
     MenuOption("Exit", quit)
 ])
 ```
+
+The example shows its use in combination with readkey to allow for the arrow keys to move the menu's cursor.
